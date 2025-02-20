@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "**/__init__.py": true,
+        "**/__pycache__/": true
+    },
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python",
+        "editor.formatOnSave": true
+    },
+    "cSpell.ignoreWords": [
+        "jsonify"
+    ]
+}
