@@ -63,17 +63,16 @@ A API será iniciada e estará acessível em `http://localhost:3000`.
 ## Estrutura de Pastas
 
 ```
-├── __pycache__/
 ├── .vscode/
 │   └── settings.json
+├── .gitignore
 ├── app.py
 ├── database.db
 ├── database.py
 ├── models.py
-├── routes.py
 ├── README.md
 ├── requirements.txt
-└── .gitignore
+└── routes.py
 ```
 
 **Desenvolvido por [Luis Paiva](https://github.com/luispaiva)**
